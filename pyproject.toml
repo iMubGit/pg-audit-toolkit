@@ -1,0 +1,7 @@
+[project]
+name = "pg-audit-toolkit"
+version = "0.1.0"
+dependencies = ["typer[all]", "psycopg2-binary", "pydantic", "rich"]
+
+[project.scripts]
+pg-audit = "pg_audit_toolkit.cli:app"

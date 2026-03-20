@@ -1,0 +1,4 @@
+typer[all]
+psycopg2-binary
+pydantic
+rich
