@@ -1,2 +1,0 @@
-[console_scripts]
-pg-audit = pg_audit_toolkit.cli:app
