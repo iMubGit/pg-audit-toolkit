@@ -4,7 +4,7 @@ CLI tool that audits PostgreSQL databases for security vulnerabilities and compl
 
 Built for fintech backend teams operating under **PCI DSS**, **SOC 2**, and **Nigeria's NDPA** — where database misconfigurations are a regulatory risk, not just a technical one.
 
-**Disclaimer:** This tool is a screening aid, not a substitute for a professional security audit. Findings should be reviewed by a qualified engineer before any action is taken on a production database.
+**Scope:** This tool performs automated screening against known misconfiguration patterns. Findings should be reviewed by a qualified engineer before any action is taken on a production database.
 
 ## Background
 
